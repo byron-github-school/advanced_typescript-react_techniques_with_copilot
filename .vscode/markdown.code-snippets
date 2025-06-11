@@ -1,0 +1,47 @@
+{
+    "Workshop Step": {
+       "prefix": "step",
+       "body": [
+          "1. **${1:TBD}**",
+          "",
+          "   ```markdown",
+          "   ${2:Insert prompt here}",
+          "   ```",
+          "",
+          "   <details>",
+          "   <summary><strong>View Response</strong></summary>",
+          "   <blockquote>",
+          "",
+          "${3:Insert response here}",
+          "",
+          "   </blockquote>",
+          "   </details>",
+       ],
+       "description": "Inserts a Workshop step",
+    },
+    "Note Snippet": {
+       "prefix": "note",
+       "body": ["> [!NOTE]", ">", "> _TBD_"],
+       "description": "Inserts a Note block",
+    },
+    "Tip Snippet": {
+       "prefix": "tip",
+       "body": ["> [!TIP]", ">", "> _TBD_"],
+       "description": "Inserts a Tip block",
+    },
+    "Important Snippet": {
+       "prefix": "important",
+       "body": ["> [!IMPORTANT]", ">", "> _TBD_"],
+       "description": "Inserts an Important block",
+    },
+    "Warning Snippet": {
+       "prefix": "warning",
+       "body": ["> [!WARNING]", ">", "> _TBD_"],
+       "description": "Inserts a Warning block",
+    },
+    "Caution Snippet": {
+       "prefix": "caution",
+       "body": ["> [!CAUTION]", ">", "> _TBD_"],
+       "description": "Inserts a Caution block",
+    },
+ }
