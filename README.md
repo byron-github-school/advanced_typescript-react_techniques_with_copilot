@@ -58,7 +58,7 @@ You will need the following tools:
 1. Clone the repo:
 
 ```
-git clone https://github.com/im-copilot-sandbox/hackathon-typescriptreact-memorygame.git
+git clone [https://github.com/im-copilot-sandbox/hackathon-typescriptreact-memorygame.git](https://github.com/byron-github-school/advanced_typescript-react_techniques_with_copilot.git)
 ```
 
 2. Navigate to the project directory:
